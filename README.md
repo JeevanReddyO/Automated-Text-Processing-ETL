@@ -25,7 +25,7 @@ A robust Python-based pipeline that extracts article text from URLs and performs
 
 ##  Project Structure
 
-```text
+text
 ├── crawler_main.py          # Script 1: Web Scraper
 ├── nlp_processor.py         # Script 2: Text Analysis Engine
 ├── Input.xlsx               # Source file containing URLs
@@ -33,6 +33,8 @@ A robust Python-based pipeline that extracts article text from URLs and performs
 ├── extracted_articles/      # Folder storing raw text files
 ├── StopWords/               # Directory for stop word lists
 └── MasterDictionary/        # Directory for Positive/Negative dictionaries
+
+
 
 **** Metrics Calculated *****
 The tool computes the following variables for each article:
